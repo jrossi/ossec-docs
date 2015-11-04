@@ -1,4 +1,3 @@
-## OSSEC Documentation 
+## OSSEC Documentation & Website
 
-[![Build Status](https://travis-ci.org/ossec/ossec-docs.svg?branch=master)](https://travis-ci.org/ossec/ossec-docs)
-
+[![Build Status](https://travis-ci.org/ossec/ossec.github.io.svg)](https://travis-ci.org/ossec/ossec.github.io)
